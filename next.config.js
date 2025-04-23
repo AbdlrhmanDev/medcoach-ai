@@ -11,8 +11,8 @@ const nextConfig = {
     removeConsole: process.env.NODE_ENV === 'production',
   },
   swcMinify: true,
-  basePath: '/MedCoach-AI',
-  assetPrefix: '/MedCoach-AI',
+  basePath: '/medcoach-ai',
+  assetPrefix: '/medcoach-ai',
 };
 
 module.exports = nextConfig; 
